@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77497aa4-f316-4e8b-8f1d-f661cb55806b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tm/exerc2/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tm/exerc2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tm/exerc2/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tm/exerc2/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tm/exerc2/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula5/tm/exerc1/QuickSortSorterImple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula5/tm/exerc1/Sorter.java" afterDir="false" />
+    <list default="true" id="77497aa4-f316-4e8b-8f1d-f661cb55806b" name="Default Changelist" comment="Exercícios">
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc3/geometry/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc3/geometry/GeometricFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc3/geometry/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc3/geometry/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc3/password/MediumPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc3/password/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc3/password/StrongPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc3/password/WeakPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc4/CLTEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc4/CLTEmployeeLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tt/exerc4/PJEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula5/tm/exerc1/QuickSortSorterImple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula5/tm/exerc1/Sorter.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +63,7 @@
       <recent name="$PROJECT_DIR$/../Bootcamp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Date">
+  <component name="RunManager" selected="Application.StrongPassword">
     <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bootcamp.java.mod5.aula4.tm.exerc2.Date" />
       <module name="Bootcamp" />
@@ -69,38 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmpresaXY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bootcamp.java.mod5.aula1.tm.exerc2.EmpresaXY" />
+    <configuration name="MediumPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bootcamp.java.mod5.aula4.tt.exerc3.password.MediumPassword" />
       <module name="Bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bootcamp.java.mod5.aula1.tm.exerc2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bootcamp.java.mod5.aula4.tm.exerc2.Fraction" />
-      <module name="Bootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bootcamp.java.mod5.aula4.tm.exerc2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bootcamp.java.mod5.aula1.tm.exerc2.supermarket.Main" />
-      <module name="Bootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bootcamp.java.mod5.aula1.tm.exerc2.supermarket.*" />
+          <option name="PATTERN" value="bootcamp.java.mod5.aula4.tt.exerc3.password.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,6 +96,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="bootcamp.java.mod5.aula1.tt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrongPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bootcamp.java.mod5.aula4.tt.exerc3.password.StrongPassword" />
+      <module name="Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bootcamp.java.mod5.aula4.tt.exerc3.password.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeakPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bootcamp.java.mod5.aula4.tt.exerc3.password.WeakPassword" />
+      <module name="Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bootcamp.java.mod5.aula4.tt.exerc3.password.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrongPassword" />
+        <item itemvalue="Application.MediumPassword" />
+        <item itemvalue="Application.WeakPassword" />
         <item itemvalue="Application.Date" />
         <item itemvalue="Application.RadixSort" />
-        <item itemvalue="Application.Fraction" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.EmpresaXY" />
       </list>
     </recent_temporary>
   </component>
@@ -160,8 +168,23 @@
       <workItem from="1624560764692" duration="8000" />
       <workItem from="1624560816111" duration="25000" />
       <workItem from="1624560898672" duration="25529000" />
-      <workItem from="1624882397622" duration="1983000" />
+      <workItem from="1624882397622" duration="7457000" />
     </task>
+    <task id="LOCAL-00001" summary="Exercícios">
+      <created>1624895308128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624895308128</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercícios">
+      <created>1624895356884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624895356884</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,5 +201,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercícios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercícios" />
   </component>
 </project>
