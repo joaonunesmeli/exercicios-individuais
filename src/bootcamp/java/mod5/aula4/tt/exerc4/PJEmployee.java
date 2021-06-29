@@ -24,7 +24,7 @@ public class PJEmployee implements Employee {
         this.wage = wage;
     }
 
-    public double pay() {
+    public double pay(WageConfig cfg) {
         return wage * workedHours;
     }
 }
