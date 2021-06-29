@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77497aa4-f316-4e8b-8f1d-f661cb55806b" name="Default Changelist" comment="Exercícios">
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula5/tm/exerc5/sort/Celular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula5/tm/exerc5/sort/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula5/tm/exerc5/sort/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula5/tm/exerc5/sort/Precedente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula5/tm/exerc5/sort/SortUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/desafio/savetheropa/Vestuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tm/exerc2/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bootcamp/java/mod5/aula4/tm/exerc2/StringUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
       <recent name="$PROJECT_DIR$/../Bootcamp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.StringUtil">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bootcamp.java.mod5.aula5.tm.exerc5.sort.Main" />
       <module name="Bootcamp" />
@@ -135,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.StringUtil" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.StrongPassword" />
         <item itemvalue="Application.MediumPassword" />
@@ -159,7 +156,7 @@
       <workItem from="1624560764692" duration="8000" />
       <workItem from="1624560816111" duration="25000" />
       <workItem from="1624560898672" duration="25529000" />
-      <workItem from="1624882397622" duration="19160000" />
+      <workItem from="1624882397622" duration="20439000" />
     </task>
     <task id="LOCAL-00001" summary="Exercícios">
       <created>1624895308128</created>
@@ -189,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624973672426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercícios">
+      <created>1624975918230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624975918230</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

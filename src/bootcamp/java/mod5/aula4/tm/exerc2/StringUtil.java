@@ -27,21 +27,19 @@ public final class StringUtil {
     }
 
     public static String ltrim(String s) {
-        char chars[] = s.toCharArray();
-        int p = 0;
-        while (Character.isWhitespace(chars[p])) {
-            p++;
+        int i = 0;
+        while(Character.isWhitespace(s.charAt(i))) {
+            i++;
         }
-        return String.valueOf(chars, p, chars.length - p);
+        return s.substring(i);
     }
 
     public static String rtrim(String s) {
-        char chars[] = s.toCharArray();
-        int len = chars.length;
-        while (Character.isWhitespace(chars[len - 1])) {
-            len--;
+        int i = s.length() - 1;
+        while(Character.isWhitespace(s.charAt(i))) {
+            i--;
         }
-        return String.valueOf(chars, 0, len);
+        return s.substring(0, i + 1);
     }
 
     public static String trim(String s) {
